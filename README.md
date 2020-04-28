@@ -15,7 +15,7 @@ Let's build a handheld device that can help caregivers verify that masks are put
 While thinking about this project it lead me to reflect on another set of concerns that we in the mask making community have: we have a variety of designs to choose from and materials to use, but we have no way to gauge the relative effectiveness of these choices. Is one material better than another? Should some materials be avoided at all cost? Should we really be putting those nose-pinchy things on our masks? If so, what adhesives should we use and can we get by with homemade ones made from recycled aluminum?
 
 ## Project 2 
-*(which might is a good prototype/MVP for Project 1)*
+*(which might be a good prototype/MVP for Project 1)*
 
 Let's develop an open hardware specification for a device that can validate the efficacy of different mask designs. This design should be easily buildable and should rely on open source software and widely available hardware. This might, in time, extend beyond thermal imaging and involve humidity and moisture sensors to detect particulate leakage.
 
